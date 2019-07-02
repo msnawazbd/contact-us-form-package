@@ -1,7 +1,7 @@
 @component('mail::message')
 # Introduction
 
-There is new query from {{ $name }}
+Hello, There is new query from {{ $name }}
 <br>
 Message: {{ $message }}
 
