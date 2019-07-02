@@ -1,0 +1,19 @@
+{
+    "name": "clustercoding/contact",
+    "description": "This will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MS Nawaz",
+            "email": "msnawazbd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Clustercoding\\Contact\\": "src/"
+        }
+    }
+}
