@@ -1,3 +1,3 @@
-# Contact us form package
+# Contact us form package.
 
-## This will send email to admin and save contact query in database
+## This will send email to admin and save contact query in database.
