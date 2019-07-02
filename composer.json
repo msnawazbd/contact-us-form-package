@@ -15,5 +15,12 @@
         "psr-4": {
             "Clustercoding\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Clustercoding\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
